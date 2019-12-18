@@ -1,0 +1,14 @@
+/* @import "includes.css"; */
+
+:root {
+  --text-color: #f44;
+}
+
+body {
+  background: white;
+  color: black;
+}
+
+h1 {
+  color: var(--text-color);
+}
